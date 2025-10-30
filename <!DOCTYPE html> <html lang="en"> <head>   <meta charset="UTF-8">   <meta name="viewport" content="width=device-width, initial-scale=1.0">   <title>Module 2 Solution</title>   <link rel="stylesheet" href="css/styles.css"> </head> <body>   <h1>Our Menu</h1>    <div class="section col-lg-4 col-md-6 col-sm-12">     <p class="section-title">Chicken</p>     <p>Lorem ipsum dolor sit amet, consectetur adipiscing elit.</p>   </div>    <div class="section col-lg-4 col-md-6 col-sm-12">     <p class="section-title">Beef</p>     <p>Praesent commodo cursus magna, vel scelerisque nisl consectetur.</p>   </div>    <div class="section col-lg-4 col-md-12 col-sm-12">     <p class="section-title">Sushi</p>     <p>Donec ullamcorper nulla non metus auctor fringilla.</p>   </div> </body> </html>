@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Module 2 Solution</title>
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+  <h1>Our Menu</h1>
+
+  <div class="section col-lg-4 col-md-6 col-sm-12">
+    <p class="section-title">Chicken</p>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+  </div>
+
+  <div class="section col-lg-4 col-md-6 col-sm-12">
+    <p class="section-title">Beef</p>
+    <p>Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>
+  </div>
+
+  <div class="section col-lg-4 col-md-12 col-sm-12">
+    <p class="section-title">Sushi</p>
+    <p>Donec ullamcorper nulla non metus auctor fringilla.</p>
+  </div>
+</body>
